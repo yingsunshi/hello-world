@@ -1,6 +1,6 @@
 # hello-world
 This is my first repository
-i am a little robo,i love earth
+i am a little robot,i love earth
 
 hello,human
 
